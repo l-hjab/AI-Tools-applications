@@ -31,12 +31,12 @@ Best practices for model robustness.
 If you're contributing to this repo:
 
 
-cd AI-Specialization
+# cd AI-Specialization
 Add, commit, and push your changes:
 d .
 git commit -m "your message"
 git push -u origin main
-👩🏽‍💻 Authors
+# 👩🏽‍💻 Authors
 Your Name – Daphine Nekesa
 
 Power Learn Project
